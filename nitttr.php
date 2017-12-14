@@ -1,0 +1,3 @@
+<?
+echo"how r you";
+>
